@@ -27,7 +27,7 @@ A RESTful API built with Node.js, Express, MongoDB, and JWT authentication for m
 ## 📦 Installation & Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/prathamesh-0205/book_review_system.git
 cd <project-folder>
 npm install
 
